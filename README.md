@@ -46,6 +46,7 @@ The directory structure for this project looks like follows:
     ├── 1_data_analysis_and_cleaning.ipynb
     ├── 2_customer_segmentation.ipynb
     ├── 3_predictions.ipynb
+    ├── Data Science approach to Marketing Strategies - customer segmentation and campaign conversion.pdf
     └── README.md
 
 - **dataset** folder used for data storage in the development (not including source files in the repo due to t&cs limitations and Github storage limitations)
@@ -53,6 +54,7 @@ The directory structure for this project looks like follows:
 - **2_customer_segmentation.ipynb** the file used to segment and compare populations
 - **3_predictions.ipynb** the file with predictions of the conversion for the recipients of a marketing campaign
 - **.gitignore** file used mostly to avoid uploading jupiter checkpoints and source data
+- **Data Science approach to Marketing Strategies - customer segmentation and campaign conversion.pdf** an article discussing the project posted originally on Medium
 
 
 
