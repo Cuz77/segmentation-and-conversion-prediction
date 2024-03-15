@@ -6,6 +6,8 @@
 
 This project has been created as a part of the Nanodegree Data Scientist program. The project was driven by two primary questions: How does the company's customer base compare to the general population of Germany, and what is the conversion level for the target audience of the given marketing campaign? Addressing these questions required a comprehensive analysis of demographic data, with the ultimate goal of enhancing the company's marketing efforts through targeted customer segmentation and predictive modeling.
 
+ An [article](https://medium.com/@belibels/data-science-approach-to-marketing-strategies-customer-segmentation-and-campaign-conversion-cfc08086b97a) has been posted on Medium to share the findings.
+
 
 
 ## Dependencies
@@ -46,7 +48,7 @@ The directory structure for this project looks like follows:
     ├── 3_predictions.ipynb
     └── README.md
 
-- **dataset** folder used for data storage in the development (not including source files int he repo due to t&cs limitations)
+- **dataset** folder used for data storage in the development (not including source files in the repo due to t&cs limitations and Github storage limitations)
 - **1_data_analysis_and_cleaning.ipynb** the file used to analyse and clean the dataset
 - **2_customer_segmentation.ipynb** the file used to segment and compare populations
 - **3_predictions.ipynb** the file with predictions of the conversion for the recipients of a marketing campaign
@@ -56,7 +58,7 @@ The directory structure for this project looks like follows:
 
 ## Dataset
 
-The dataset consists of four csv files provided by Airbnb on kaggle ([Boston Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/boston/discussion)).
+The dataset consists of four csv filesfrom by Bertelsmann Arvato Analytics provided by Udacity:
 
 1. Azdias file contains demographic data for the general population of Germany with almost 400 features and 900 K entries
 
